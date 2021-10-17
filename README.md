@@ -7,4 +7,8 @@ npm install --save react-google-recaptcha
 
 Just put sitekey in your code..
 
-you need to change "onCaptchaChangeHandle" method as per your need
+you need to change "onCaptchaChangeHandle" method as per your need.
+
+used test site key in this project
+
+https://developers.google.com/recaptcha/docs/faq
